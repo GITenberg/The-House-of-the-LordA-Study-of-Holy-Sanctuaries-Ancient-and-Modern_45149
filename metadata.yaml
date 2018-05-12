@@ -1,0 +1,30 @@
+_repo: The-House-of-the-LordA-Study-of-Holy-Sanctuaries-Ancient-and-Modern_45149
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Talmage, James E. (James Edward)
+    alias: Talmage, James Edward
+    birthdate: 1862
+    deathdate: 1933
+    gutenberg_agent_id: '1821'
+    url: http://www.gutenberg.org/2009/agents/1821
+    wikipedia: http://en.wikipedia.org/wiki/James_E._Talmage
+description: ''
+gutenberg_bookshelf: Latter Day Saints
+gutenberg_issued: '2014-03-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45149'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mormon temples'
+- !lcsh 'Temples'
+- !lcc 'BX'
+title: 'The House of the Lord: A Study of Holy Sanctuaries Ancient and Modern'
+url: http://www.gutenberg.org/ebooks/45149
