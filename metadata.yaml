@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1821
     wikipedia: http://en.wikipedia.org/wiki/James_E._Talmage
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45149#The-House-of-the-LordA-Study-of-Holy-Sanctuaries-Ancient-and-Modern
 gutenberg_bookshelf: Latter Day Saints
 gutenberg_issued: '2014-03-16'
 gutenberg_type: Text
